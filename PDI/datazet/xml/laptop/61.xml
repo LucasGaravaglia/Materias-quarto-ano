@@ -1,0 +1,26 @@
+<annotation>
+	<folder>laptop</folder>
+	<filename>61.jpg</filename>
+	<path>/home/lucas/Desktop/datazet/images/laptop/61.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laptop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>107</ymin>
+			<xmax>98</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>
